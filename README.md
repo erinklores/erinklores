@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erinklores
 - 👀 I’m interested in environmental and geographic modeling projects.
 - 🌱 I’m currently learning Python.
-- 📫 Let me know if you think we should connect!
+- 📫 Let's connect!
 
 <!---
 erinklores/erinklores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
